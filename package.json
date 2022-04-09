@@ -11,7 +11,7 @@
     "dinero.js": "^1.6.0",
     "grommet": "^2.7.9",
     "material-table": "^1.52.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "polished": "^3.4.1",
     "react": "^16.9.0",
     "react-chartjs-2": "^2.8.0",
